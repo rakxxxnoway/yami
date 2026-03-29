@@ -1,0 +1,23 @@
+[
+    {
+        "id": 0,
+        "used": false
+    },
+    {
+        "id": 1,
+        "gos": 0,
+        "kat": 0
+    },
+
+    {
+        "id": 2,
+        "fav_command": "",
+        "votes": 0
+    },
+    {
+        "id": 3,
+        "coin_flipped": 0,
+        "h": 0,
+        "t": 0
+    }
+]
